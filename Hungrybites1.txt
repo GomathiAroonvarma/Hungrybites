@@ -4,3 +4,4 @@ Authour: Gomathi Vijayakumar
 2.	Source and destination page code
 3.	Path map code 
 4.	Payments page code.
+5.  Hiding the customer's bank account details.
