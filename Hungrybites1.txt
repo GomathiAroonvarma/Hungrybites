@@ -6,4 +6,5 @@ Authour: Gomathi Vijayakumar
 4.	Payments page code.
 5.  Hiding the customer's bank account details.
 6.  Tracking driver's route feature
+7.  Added 50 local part time drivers for speedup the process
 
